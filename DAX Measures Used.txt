@@ -1,0 +1,5 @@
+Total Sales = SUM(superstore_gold[Sales])
+Total Profit = SUM(superstore_gold[Profit])
+Average Discount = AVERAGE(superstore_gold[Discount])
+Total Orders = COUNT(superstore_gold[Order_ID])
+Profit Margin % = AVERAGE(superstore_gold[Profit_Margin])
